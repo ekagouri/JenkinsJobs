@@ -9,7 +9,7 @@ public class Solution {
             System.out.println("    S  A   A");
             System.out.println("S   S  A   A");
             System.out.println(" SSS   A   A");
+            System.out.println("............");
 
         }
-
 }
